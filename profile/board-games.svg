@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+<title id="title">Board Games</title>
+<desc id="desc">Dark green banner with an original illustration of an eight-by-eight board and black and white discs.</desc>
+<defs>
+  <linearGradient id="back" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#101e21"/><stop offset="1" stop-color="#163935"/></linearGradient>
+  <linearGradient id="felt" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#387465"/><stop offset="1" stop-color="#215444"/></linearGradient>
+  <radialGradient id="white" cx=".34" cy=".27" r=".8"><stop stop-color="#fff9e9"/><stop offset="1" stop-color="#ccc3ae"/></radialGradient>
+  <radialGradient id="black" cx=".34" cy=".27" r=".8"><stop stop-color="#495a5b"/><stop offset="1" stop-color="#121e22"/></radialGradient>
+</defs>
+<rect x="1" y="1" width="998" height="358" rx="27" fill="url(#back)" stroke="#467268" stroke-width="2"/>
+<path d="M58 62h36" fill="none" stroke="#c4df9b" stroke-width="3" stroke-linecap="round"/>
+<text x="58" y="112" fill="#c4df9b" font-family="system-ui,sans-serif" font-size="20" font-weight="700" letter-spacing="4">ONLINE TABLETOP</text>
+<text x="54" y="195" fill="#f9f3e4" font-family="system-ui,sans-serif" font-size="76" font-weight="800" letter-spacing="-3">Board Games</text>
+<text x="58" y="252" fill="#dfebde" font-family="system-ui,sans-serif" font-size="28">Classic boards. Online play.</text>
+<g transform="translate(745 180) rotate(-13) translate(-116 -116)">
+  <rect x="-15" y="-10" width="262" height="262" rx="17" fill="#0a1819"/>
+  <rect x="-15" y="-15" width="262" height="262" rx="17" fill="#152e2a" stroke="#66917d" stroke-width="2"/>
+  <rect width="232" height="232" rx="2" fill="url(#felt)"/>
+  <path d="M0 0v232M0 0h232 M29 0v232M0 29h232 M58 0v232M0 58h232 M87 0v232M0 87h232 M116 0v232M0 116h232 M145 0v232M0 145h232 M174 0v232M0 174h232 M203 0v232M0 203h232 M232 0v232M0 232h232" fill="none" stroke="#afd1ad" stroke-opacity=".52" stroke-width="1"/>
+  <circle cx="159.5" cy="159.5" r="8.5" fill="none" stroke="#dcf0ad" stroke-width="1.8" stroke-dasharray="2 2"/>
+  <circle cx="72.5" cy="74.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="72.5" cy="71.5" r="10.5" fill="url(#black)" stroke="#6d8180" stroke-width=".6"/>
+<circle cx="101.5" cy="74.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="101.5" cy="71.5" r="10.5" fill="url(#white)" stroke="#f6eddb" stroke-width=".6"/>
+<circle cx="130.5" cy="74.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="130.5" cy="71.5" r="10.5" fill="url(#black)" stroke="#6d8180" stroke-width=".6"/>
+<circle cx="72.5" cy="103.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="72.5" cy="100.5" r="10.5" fill="url(#white)" stroke="#f6eddb" stroke-width=".6"/>
+<circle cx="101.5" cy="103.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="101.5" cy="100.5" r="10.5" fill="url(#black)" stroke="#6d8180" stroke-width=".6"/>
+<circle cx="130.5" cy="103.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="130.5" cy="100.5" r="10.5" fill="url(#white)" stroke="#f6eddb" stroke-width=".6"/>
+<circle cx="159.5" cy="103.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="159.5" cy="100.5" r="10.5" fill="url(#white)" stroke="#f6eddb" stroke-width=".6"/>
+<circle cx="72.5" cy="132.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="72.5" cy="129.5" r="10.5" fill="url(#black)" stroke="#6d8180" stroke-width=".6"/>
+<circle cx="101.5" cy="132.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="101.5" cy="129.5" r="10.5" fill="url(#white)" stroke="#f6eddb" stroke-width=".6"/>
+<circle cx="130.5" cy="132.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="130.5" cy="129.5" r="10.5" fill="url(#black)" stroke="#6d8180" stroke-width=".6"/>
+<circle cx="159.5" cy="132.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="159.5" cy="129.5" r="10.5" fill="url(#black)" stroke="#6d8180" stroke-width=".6"/>
+<circle cx="101.5" cy="161.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="101.5" cy="158.5" r="10.5" fill="url(#white)" stroke="#f6eddb" stroke-width=".6"/>
+<circle cx="130.5" cy="161.5" r="10.7" fill="#0b1819" opacity=".66"/><circle cx="130.5" cy="158.5" r="10.5" fill="url(#black)" stroke="#6d8180" stroke-width=".6"/>
+</g>
+</svg>
